@@ -8,7 +8,7 @@ Replace  the DISCORD_TOKEN and the OPENAI_KEY key with your keys.
 
 > Make sure your discord bot has permissions to attach files.
 
-Then just run the python file. 
+then run the bot!
 
 ### How to Use:
 Type to the Discord bot in a DM. It will attach an Mp3 of that text in the voice currently selected. It defaults to echo as the starter voice. I use this to create quick MP3's for games or promos
