@@ -1,4 +1,4 @@
-# OpenAI TTS DiscordBot
+# OpenAI TTS Discord Bot
 This is a simple discord bot that can produces mp3's using Open AI's TTS API. 
 
 
