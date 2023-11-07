@@ -57,7 +57,7 @@ def synthesize_speech(what_to_say):
         "Content-Type": "application/json"
     }
     data = {
-        "model": "tts-1",
+        "model": "tts-1-hd",
         "input": what_to_say,
         "voice": current_voice
     }
